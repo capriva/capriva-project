@@ -1,11 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Peercoin
-Comment=Core wallet for Peercoin P2P Cryptocurrency
-Comment[de]=Offizieller Client für die Kryptowährung Peercoin
-Exec=/usr/bin/peercoin-qt %u
+Name=Capriva
+Comment=Core wallet for Capriva P2P Cryptocurrency
+Comment[de]=Offizieller Client für die Kryptowährung Capriva
+Exec=/usr/bin/Capriva-qt %u
 Terminal=false
 Type=Application
-Icon=/usr/share/pixmaps/peercoin.png
-MimeType=x-scheme-handler/peercoin;
+Icon=/usr/share/pixmaps/Capriva.png
+MimeType=x-scheme-handler/Capriva;
 Categories=Application;Network;

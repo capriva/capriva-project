@@ -1,6 +1,6 @@
 [Protocol]
-exec=peercoin-qt '%u'
-protocol=peercoin
+exec=Capriva-qt '%u'
+protocol=Capriva
 input=none
 output=none
 helper=true
