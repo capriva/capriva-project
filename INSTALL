@@ -1,9 +1,9 @@
-Building Peercoin
+Building Capriva
 
-See doc/readme-qt.rst for instructions on building Peercoin-Qt,
+See doc/readme-qt.rst for instructions on building Capriva-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Peercoin.
+implementation of Capriva.
 
-See doc/build-*.txt for instructions on building peercoind,
+See doc/build-*.txt for instructions on building Caprivad,
 the intended-for-services, no-graphical-interface, reference
-implementation of Peercoin.
+implementation of Capriva.
