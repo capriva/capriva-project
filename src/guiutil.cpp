@@ -84,7 +84,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
     // return if URI is not valid or is no bitcoin URI
-    if(!uri.isValid() || (uri.scheme() != QString("Capriva") && uri.scheme() != QString("CAPoin")))
+    if(!uri.isValid() || (uri.scheme() != QString("Capriva") && uri.scheme() != QString("CAPs")))
         return false;
 
     SendCoinsRecipient rv;
