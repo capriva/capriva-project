@@ -3,7 +3,7 @@ Capriva Official Development Repo
 ==================================
 
 ### What is Capriva?
-[Capriva](https://Capriva.net) (abbreviated CAP), also known as CAPoin and Peer-to-Peer Coin is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus](https://Capriva.net/assets/paper/Capriva-paper.pdf) as a security model, with a combined [proof-of-stake](https://Capriva.net/assets/paper/Capriva-paper.pdf)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Capriva is based on [Bitcoin](https://bitcoin.org), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
+[Capriva](https://Capriva.net) (abbreviated CAP), also known as CAPs is a [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus](https://Capriva.net/assets/paper/Capriva-paper.pdf) as a security model, with a combined [proof-of-stake](https://Capriva.net/assets/paper/Capriva-paper.pdf)/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. Capriva is based on [Bitcoin](https://bitcoin.org), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
 
 ### Capriva Resources
 * Client and Source:
