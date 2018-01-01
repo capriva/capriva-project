@@ -35,7 +35,7 @@ QString BitcoinUnits::name(int unit)
     switch(unit)
     {
     case BTC: return QString("CAP");
-    case mBTC: return QString("mCAP");
+    case mBTC: return QString("kCAP");
     case uBTC: return QString::fromUtf8("μCAP");
     default: return QString("???");
     }
@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Caprivas");
-    case mBTC: return QString("Milli-Caprivas (1 / 1,000)");
-    case uBTC: return QString("Micro-Caprivas (1 / 1,000,000)");
+    case BTC: return QString("Caps");
+    case mBTC: return QString("Kilocaps (1 / 1,000)");
+    case uBTC: return QString("Tetracaps (1 / 1,000,000)");
     default: return QString("???");
     }
 }
